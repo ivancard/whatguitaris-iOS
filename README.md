@@ -1,6 +1,6 @@
 # What Guitar Is
 
-This app reconize guitars in pictures taken by your camera
+This app recognize guitars in pictures taken by your camera
 
 I develop a machine learning model using CreateML and implemented using CoreML
 
