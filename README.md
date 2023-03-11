@@ -11,8 +11,8 @@ I develop a machine learning model using CreateML and implemented using CoreML
 
 ## CreateML Results
 
-![CreteML result](Documentation/stat1)
+![CreteML result](Documentation/stat1.png)
 
-![CreteML result](Documentation/stat2)
+![CreteML result](Documentation/stat2.png)
 
-![CreteML result](Documentation/stat3)
+![CreteML result](Documentation/stat3.png)
